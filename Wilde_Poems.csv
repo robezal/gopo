@@ -1,4 +1,4 @@
-,Author,Title,Poem,Era
+,Author,Title,Poem,Era,Form
 0,Oscar Wilde,"The Ballad of Reading
 Gaol","He did not wear his
 scarlet coat,
@@ -715,7 +715,7 @@ And all men kill the thing they love,
 Some do it with a bitter look,
    Some with a flattering word,
 The coward does it with a kiss,
-   The brave man with a sword!",Modern
+   The brave man with a sword!",Victorian,Ballad
 1,Oscar Wilde,"The Ballad of Reading
 Gaol","He did not wear his
 scarlet coat,
@@ -1121,7 +1121,7 @@ Yet all is well; he has but passed
 And alien tears will fill for him
    Pity’s long-broken urn,
 For his mourners will be outcast men,
-   And outcasts always mourn.",Modern
+   And outcasts always mourn.",Victorian,Ballad
 2,Oscar Wilde,Ave Imperatrix,"Set in this stormy
 Northern sea,
    Queen of these restless fields of tide,
@@ -1256,7 +1256,7 @@ Though childless, and with thorn-crowned head,
 Yet when this fiery web is spun,
    Her watchmen shall descry from far
 The young Republic like a sun
-   Rise from these crimson seas of war.",Modern
+   Rise from these crimson seas of war.",Victorian,
 3,Oscar Wilde,"To My Wife (with a copy of
 my poems)","I can write no
 stately proem
@@ -1271,7 +1271,7 @@ p.
 101And when wind and winter harden
    All the loveless land,
 It will whisper of the garden,
-   You will understand.",Modern
+   You will understand.",Victorian,
 4,Oscar Wilde,Magdalen Walks,"The little white
 clouds are racing over the sky,
    And the fields are strewn with the gold of the
@@ -1308,7 +1308,7 @@ there,
    Breaking the gossamer threads and the nets of
 dew,
    And flashing adown the river, a flame of blue!
-The kingfisher flies like an arrow, and wounds the air.",Modern
+The kingfisher flies like an arrow, and wounds the air.",Victorian,
 5,Oscar Wilde,"Theocritus—a
 Villanelle","O singer of
 Persephone!
@@ -1330,7 +1330,7 @@ Dost thou remember Sicily?
 Slim Lacon keeps a goat for thee,
    For thee the jocund shepherds wait;
 O Singer of Persephone!
-Dost thou remember Sicily?",Modern
+Dost thou remember Sicily?",Victorian,
 6,Oscar Wilde,Greece,"The sea was sapphire
 coloured, and the sky
 Burned like a heated opal through the air;
@@ -1346,7 +1346,7 @@ The flapping of the sail against the mast,
    The ripple of girls’ laughter at the stern,
 The only sounds:—when ’gan the West to burn,
    And a red sun upon the seas to ride,
-   I stood upon the soil of Greece at last!",Modern
+   I stood upon the soil of Greece at last!",Victorian,Sonnet
 7,Oscar Wilde,Portia (to Ellen Terry),"I marvel not
 Bassanio was so bold
    To peril all he had upon the lead,
@@ -1363,7 +1363,7 @@ And would not let the laws of Venice yield
    Antonio’s heart to that accursèd
 Jew—
    O Portia! take my heart: it is thy due:
-I think I will not quarrel with the Bond.",Modern
+I think I will not quarrel with the Bond.",Victorian,Sonnet
 8,Oscar Wilde,"Fabien Dei Franchi (to Henry
 Irving)","The silent room, the
 heavy creeping shade,
@@ -1382,7 +1382,7 @@ These things are well enough,—but thou wert made
 For thee should lure his love, and desperate fear
 Pluck Richard’s recreant dagger from its sheath—
    Thou trumpet set for Shakespeare’s lips to
-blow!",Modern
+blow!",Victorian,Sonnet
 9,Oscar Wilde,"Phèdre (to Sarah
 Bernhardt)","How vain and dull
 this common world must seem
@@ -1401,7 +1401,7 @@ Ah! surely once some urn of Attic clay
    Back to this common world so dull and vain,
 For thou wert weary of the sunless day,
    The heavy fields of scentless asphodel,
-   The loveless lips with which men kiss in Hell.",Modern
+   The loveless lips with which men kiss in Hell.",Victorian,Sonnet
 10,Oscar Wilde,"On Hearing The Dies Iræ Sung
 In The Sistine Chapel","Nay, Lord, not thus!
 white lilies in the spring,
@@ -1418,7 +1418,7 @@ rather on some autumn afternoon,
 And the fields echo to the gleaner’s song,
 Come when the splendid fulness of the moon
    Looks down upon the rows of golden sheaves,
-   And reap Thy harvest: we have waited long.",Modern
+   And reap Thy harvest: we have waited long.",Victorian,Sonnet
 11,Oscar Wilde,Ave Maria Gratia Plena,"Was this His
 coming!  I had hoped to see
    A scene of wondrous glory, as was told
@@ -1435,7 +1435,7 @@ With such glad dreams I sought this holy place,
    Before this supreme mystery of Love:
 Some kneeling girl with passionless pale face,
    An angel with a lily in his hand,
-   And over both the white wings of a Dove.",Modern
+   And over both the white wings of a Dove.",Victorian,Sonnet
 12,Oscar Wilde,Libertatis Sacra Fames,"Albeit nurtured in
 democracy,
    And liking best that state republican
@@ -1451,7 +1451,7 @@ p.
    For no right cause, beneath whose ignorant reign
 Arts, Culture, Reverence, Honour, all things fade,
    Save Treason and the dagger of her trade,
-   Or Murder with his silent bloody feet.",Modern
+   Or Murder with his silent bloody feet.",Victorian,Sonnet
 13,Oscar Wilde,Roses and Rue,"Could we dig up this
 long-buried treasure,
    Were it worth the pleasure,
@@ -1526,7 +1526,7 @@ It will break in music, I know,
 But strange that I was not told
    That the brain can hold
 In a tiny ivory cell
-   God’s heaven and hell.",Modern
+   God’s heaven and hell.",Victorian,
 14,Oscar Wilde,"From ‘The Garden of
 Eros’","Nay, when Keats died
 the Muses still had left
@@ -1644,7 +1644,7 @@ And lecture on his arrows—how, alone,
 p. 139How from
 each tree its weeping nymph has fled,
 And that no more ’mid English reeds a Naiad shows her
-head.",Modern
+head.",Victorian,
 15,Oscar Wilde,The Harlot’s House,"We caught the tread
 of dancing feet,
 We loitered down the moonlit street,
@@ -1684,7 +1684,7 @@ The shadows ceased to wheel and whirl.
 p.
 143And down the long and silent street,
 The dawn, with silver-sandalled feet,
-Crept like a frightened girl.",Modern
+Crept like a frightened girl.",Victorian,
 16,Oscar Wilde,"From ‘The Burden of
 Itys’","This English Thames
 is holier far than Rome,
@@ -1827,7 +1827,7 @@ Magdalen’s tall tower tipped with tremulous gold
    Marks the long High Street of the little town,
 And warns me to return; I must not wait,
 Hark! ’t is the curfew booming from the bell at Christ
-Church gate.",Modern
+Church gate.",Victorian,
 17,Oscar Wilde,Flower of Love,"Sweet, I blame you
 not, for mine the fault
 was, had I not been made of common clay
@@ -1896,4 +1896,4 @@ argent lily from the sea.
 I have made my choice, have lived my
 poems, and, though youth is gone in wasted days,
 I have found the lover’s crown of myrtle better
-than the poet’s crown of bays.",Modern
+than the poet’s crown of bays.",Victorian,
