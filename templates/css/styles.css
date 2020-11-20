@@ -1,0 +1,164 @@
+/* CSS Styles */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 100%;
+    font-family: verdana, helvetica, arial;
+    background: rgba(200, 0, 0);
+}
+#wrapper{
+    width: 940px;
+    margin: 20px auto;
+    background: #fff;
+}
+
+header{
+    background: #fff;
+    width: 100%;
+}
+
+header img{
+    display: block;
+    margin-bottom: 20px;
+    padding: 20px 0 0 20px;
+}
+
+main{
+    float: left;
+    width: 580px;
+}
+
+main img{
+    width: 460px;
+    display: block;
+    margin: 0 auto;
+}
+
+aside{
+    float: right;
+    width: 320px;
+    padding-right: 20px
+}
+
+aside img{
+    width: 340px;
+}
+
+form{
+    padding-left: 20px;
+    max-width: 560px;
+}
+
+fieldset{
+    padding: 10px;
+    background: blue;
+    border: 1px solid red;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+fieldset li{
+    float: left;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+legend{
+    display: block;
+    background: silver;
+    font-family: "Time New Roman", serif;
+    color: rgba(200, 0, 0);
+}
+
+input[type=text],
+input[type=email]{
+    height: 20px;
+    width: 98%;
+    margin-bottom: 10px;
+}
+
+ input[type=radio],
+ input[type=checkbox]{
+    margin-right: 7px; 
+}
+
+form ul{
+    margin-bottom: 30px;
+}
+
+form li{
+    list-style-type: none;
+    margin-left: 15px;
+    margin-bottom: 4px;
+    font-size: .9em;
+    line-height: 1.5;
+}
+
+textarea{
+    width: 98%;
+    margin-bottom:10px;
+    resize: both;
+}
+
+legend{
+    font-size: 1.2em;
+    padding: 8px;
+    font-style: italic;
+}
+
+footer{
+    height: 64px;
+    background: rgba(255, 136, 13);
+    clear: both;
+}
+
+footer ul{
+    margin-left: 20px;
+}
+
+footer li, a{
+    color: rgba(37, 99, 41);
+}
+footer li{
+    list-style-type: none;
+    line-height: 64px;
+    margin-right: 20px;
+    float: left;
+}
+
+p.valid{
+    margin: 5px 15px;
+    float: left;
+}
+
+p.valid img{
+    width: 50px;
+}
+
+/*++++Typography+++++++*/
+h1, h2, h3{
+    font-family: "Time New Roman", serif;
+    margin-bottom: 8px;
+}
+
+h1{
+    margin: 20px;
+    font-size: 1.8em;
+}
+
+h2{
+    font-size: 1.4em;
+}
+
+p{
+    font-size: 0.875em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
